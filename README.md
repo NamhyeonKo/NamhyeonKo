@@ -35,4 +35,8 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NamhyeonKo&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
+    <div align= "center">
+        <a href="https://github.com/devxb/gitanimals">
+          <img src="https://render.gitanimals.org/farms/NamhyeonKo"/>
+        </a>
+    </div>
