@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=140&section=header&text=NamhyunKo's%20GitHub😎&fontColor=212529&fontSize=44&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=NamhyunKo's%20GitHub%20😎&fontColor=FFFFFF&fontSize=36&animation=fadeIn" />
 
 ### AI Agent Developer & Security Engineer
 **LangGraph/LangChain · FastMCP · RAG/GraphRAG · Secure Backend · LLM & Security**
@@ -96,7 +96,7 @@ LangChain, LangGraph, RAG, 그리고 Graph RAG를 중심으로, 구조화된 지
 
 ---
 
-## 🧠 Study (CS / Algorithm)
+## 📚 Study (CS / Algorithm)
 - [PS_practice](https://github.com/NamhyeonKo/PS_practice) — 코딩테스트 및 알고리즘 문제풀이 기록
 - [sejong_university](https://github.com/NamhyeonKo/sejong_university) — CS 전공 과제 및 전공 지식 학습 내용 정리
 
