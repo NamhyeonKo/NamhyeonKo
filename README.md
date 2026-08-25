@@ -5,7 +5,7 @@
 ### AI Agent Developer & Security Engineer
 **LangGraph/LangChain · FastMCP · RAG/GraphRAG · Secure Backend · LLM & Security**
 
-<a href="https://www.linkedin.com/in/namhyunko-4849ba372/">
+<a href="https://www.linkedin.com/in/namhyun-ko/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
 <a href="https://go-top.tistory.com/">
