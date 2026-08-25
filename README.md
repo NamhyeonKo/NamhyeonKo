@@ -36,9 +36,19 @@ LangChain, LangGraph, RAG, 그리고 Graph RAG를 중심으로, 구조화된 지
 
 ---
 
+## 🔎 핵심 프로젝트 한눈에 보기
+
+| 프로젝트 | 핵심 기여 | 검증 자료 |
+| --- | --- | --- |
+| **CLEAR** | MCP DLP Gateway 개발 리드, LangGraph 기반 LLM Judge 판단 워크플로우 설계·구현 | [저장소](https://github.com/sejong-capstone-seirenes/clear) |
+| **Sapiens** | Web3 취약점 분석을 위한 Agentic RAG 및 지식 그래프 파이프라인 개발 | [랜딩 페이지](https://sapiens.team/) · [지식 그래프](https://github.com/NamhyeonKo/web3_bugclass_ontology) |
+| **Nuclei 기여** | CVE-2025-23061 재현 환경 구축 및 ProjectDiscovery 공식 탐지 템플릿 기여 | [병합 PR #12941](https://github.com/projectdiscovery/nuclei-templates/pull/12941) · [재현 환경](https://github.com/NamhyeonKo/mongoose-cve-lab) |
+
+---
+
 ## 🧭 Journey & Projects
 
-- **[2026.03 ~ 현재] 세종대학교 캡스톤 디자인 - CLEAR (MCP DLP Gateway)**
+- **[2026.03 ~ 2026.06] 세종대학교 캡스톤 디자인 - CLEAR (MCP DLP Gateway)**
   - **CLEAR (MCP DLP Gateway)** — [sejong-capstone-seirenes/clear](https://github.com/sejong-capstone-seirenes/clear)
     - LLM Agent MCP Tool Call 민감 데이터 유출 탐지·차단 DLP 파이프라인 
     - LangGraph StateGraph 기반 DLP 판단 파이프라인 설계 및 구현
@@ -88,7 +98,9 @@ LangChain, LangGraph, RAG, 그리고 Graph RAG를 중심으로, 구조화된 지
 5. **만료된 Access Token의 허니토큰화 — 디셉션 기반 비인가 탐지 기법 연구**
    - **고남현 (제1저자)**, 김종현 | 한국정보보호학회 CISC-S'25 (2025.06)
 
-### 🏅 수상 및 인증
+### 🏅 수상 및 자격증
+- **AWS Certified AI Practitioner** | Amazon Web Services (2026.07)
+- **2026 정보보호학과 캡스톤디자인 경진대회 최우수상** | 세종대학교 (2026.06)
 - **한국정보보호학회장상 (우수논문상)** | 한국정보보호학회 CISC-S'26 (2026.05)
 - **차세대 보안리더 양성 프로그램 (BoB) 14기 수료 및 그랑프리** | 과학기술정보통신부 / KITRI (2026.02)
 - **제12회 전국 ICT 융합 공모전 장려상** | 한국ICT융합협회 (2025.11)
